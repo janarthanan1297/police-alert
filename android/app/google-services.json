@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "105008944311",
+    "firebase_url": "https://police-alert-app.firebaseio.com",
+    "project_id": "police-alert-app",
+    "storage_bucket": "police-alert-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105008944311:android:fe7e0c53faefd7c73aa932",
+        "android_client_info": {
+          "package_name": "com.example.signup_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105008944311-cu0vgbfkk4lap8gs6n2orq4pmvp1ctds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.signup_ui",
+            "certificate_hash": "e718575a4f3b0708f903ba7e895d6cdc47496f59"
+          }
+        },
+        {
+          "client_id": "105008944311-3ctc5pig3psc1e5t9mvde1v3rb4nihrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeByiHxv1JOFWCBof05dhHKygDur3MWfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105008944311-3ctc5pig3psc1e5t9mvde1v3rb4nihrd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
